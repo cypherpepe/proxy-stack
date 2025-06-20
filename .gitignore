@@ -1,0 +1,17 @@
+# ─── Node / Hardhat ─────────────────────────────
+node_modules
+artifacts
+cache
+coverage
+*.tsbuildinfo
+
+# ─── Env / секреты ──────────────────────────────
+.env
+*.env.local
+.env.*
+
+# ─── Misc ───────────────────────────────────────
+.DS_Store
+.idea
+.vscode
+*.log
